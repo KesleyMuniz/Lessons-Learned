@@ -1,6 +1,6 @@
 body {
   background-color: rgb(253, 251, 251);
-  background-image: url(https://image.freepik.com/vetores-gratis/fundo-branco-com-desenho-de-padrao-de-linha-hexagonal_1017-28442.jpg);
+  background-image: url('https://image.freepik.com/vetores-gratis/fundo-branco-com-desenho-de-padrao-de-linha-hexagonal_1017-28442.jpg');
   background-repeat: no-repeat;
   background-size: 120%;
   padding: 20px;
