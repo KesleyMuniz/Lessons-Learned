@@ -7,15 +7,21 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  left: 0;
+  background-color: green;
+  width: 100%;
+  height: 100px;
 }
 
 h1 {
+  padding: 10px;
   margin: 0;
+  text-align: center;
 }
 
 #minha_foto {
-  width: 30%;
-  margin-top: 30px;
+  width: 10%;
+  margin-top: 90px;
   border-top-left-radius: 50px;
   border-bottom-right-radius: 50px;
   margin-bottom: 20px;
@@ -49,4 +55,16 @@ table {
 
 footer {
   margin-top: 20px;
+}
+
+.logoGit {
+  width: 5%;
+}
+
+.statusOn {
+  background-color: green;
+}
+
+.statusOff {
+  background-color: red;
 }
