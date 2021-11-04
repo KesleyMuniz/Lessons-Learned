@@ -1,3 +1,52 @@
-body{
-    background-color: rgb(253, 251, 251);
+body {
+  background-color: rgb(253, 251, 251);
+  padding: 20px;
+  line-height: 20px;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+#minha_foto {
+  width: 30%;
+  margin-top: 30px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-bottom: 20px;
+}
+
+section {
+  font-family: "'Courier-New'", Courier, monospace;
+  font-size: 20px;
+}
+
+ol {
+  color: green;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+}
+
+
+ul {
+  color: red;
+}
+
+.lado-direito {
+  display: inline-block;
+}
+
+table {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 20px;
 }
